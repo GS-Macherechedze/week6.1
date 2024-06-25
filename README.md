@@ -4,9 +4,9 @@ This week, we'll leverage the power of data visualization to gain insights from 
 
 ## Learning Objectives:
 
-Import expense data into a visualization tool (Microsoft Excel/ Google Sheets).
-Create bar charts, line graphs, and pie charts to represent expense categories, trends, and proportions.
-Analyze visualizations to identify spending patterns and areas for potential optimization.
+* Import expense data into a visualization tool (Microsoft Excel/ Google Sheets).
+* Create bar charts, line graphs, and pie charts to represent expense categories, trends, and proportions.
+* Analyze visualizations to identify spending patterns and areas for potential optimization.
 
 ## Data:
 
@@ -25,14 +25,14 @@ Spreadsheet software: Tools like Microsoft Excel or Google Sheets offer built-in
 Online visualization tools: Explore various online options with user-friendly interfaces for creating charts and graphs.
 Submission Instructions (Git):
 
-## instructions
+## Instructions
 
-Download the expense data (CSV file) in this repo, 
-Open it in Microsoft Excel or Google Sheets.
-Transform the data so it can be readable then rename the file as an Excel sheet (.xlsx)
-Perform the visualization tasks outlined below.
-In another file (Microsoft Word/ Google Docs) describe your findings and what have you learnt for each task below. 
-Save and Upload the two documents(summary.docx & myExpenses.xlsx) onto this repo as your submission.
+1. Download the expense data (CSV file) in this repo, 
+2. Open it in Microsoft Excel or Google Sheets.
+3. Transform the data so it can be readable then rename the file as an Excel sheet (.xlsx)
+4. Perform the visualization tasks outlined below.
+5. In another file (summary.docx) found in this repo describe your findings and what have you learnt for each task below. 
+6. Save and Upload the two documents (summary.docx & myExpenses.xlsx) onto this repo as your submission.
 
 ## Let's Get Visual!
 
@@ -50,6 +50,8 @@ Y-axis: Total amount spent for each category (Tip: You might need to calculate t
 
 Customize the chart: Add a clear title (e.g., "Total Expenses by Category - March 2023") and labels for both axes for readability.
 
+Describe your chart in the document summary.docx
+
 ## Task 2: Expense Trends by Day (Line Graph)
 
 Create a line graph: Construct a line graph with the following specifications:
@@ -59,6 +61,8 @@ X-axis: Day of the month (Ensure the data is grouped by day)
 Y-axis: Total expenses for each day (You might need to group your data by day before plotting)
 
 Analyze the graph: Look for any daily spending patterns. Are there specific days with consistently higher or lower expenses?
+
+Describe your chart in the document summary.docx
 
 ## Task 3: Spending Proportions by Category (Pie Chart)
 
@@ -70,7 +74,9 @@ Values: Total expenses for each category (Tip: You can reuse the calculations fr
 
 Analyze the pie chart: Identify the category that contributed the most to your overall spending in March 2023.
 
-Remember these tips for effective visualization:
+Describe your chart in the document summary.docx
+
+## Remember these tips for effective visualization:
 
 1. Clear Titles & Labels: Ensure your charts have clear titles and labels so viewers understand the data being presented.
 2. Readable Colour Schemes: Use colour schemes that are easy to distinguish, avoiding confusing or visually overwhelming combinations.
