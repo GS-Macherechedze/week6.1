@@ -31,7 +31,7 @@ Submission Instructions (Git):
 2. Open it in Microsoft Excel or Google Sheets.
 3. Transform the data so it can be readable then rename the file as an Excel sheet (.xlsx)
 4. Perform the visualization tasks outlined below.
-5. In another file (summary.docx) found in this repo describe your findings and what have you learnt for each task below. 
+5. In another file create (summary.docx) and describe your findings and what have you learnt for each task below. 
 6. Save and Upload the two documents (summary.docx & myExpenses.xlsx) onto this repo as your submission.
 
 ## Let's Get Visual!
